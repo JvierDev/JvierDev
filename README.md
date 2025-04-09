@@ -2,10 +2,6 @@
 <p>💻 Full Stack with 4+ years of experience developing technological solutions for industries such as finance, mining, and government.</p>
 <p>🚀 I have worked on projects involving automation, data analysis, financial scoring systems, and monitoring dashboards, optimizing processes and enhancing decision-making through technology.</p>
 <p>📚 Currently learning Astro and diving deeper into the world of Artificial Intelligence.</p>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JvierDev&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JvierDev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"/>
-</div>
 <h2>✨ Skills</h2>
 <p>
     <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/></a>
