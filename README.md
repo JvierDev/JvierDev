@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Javier</h1>
-<p>💻 Full Stack with 4+ years of experience developing technological solutions for industries such as finance, mining, and government.</p>
+<p>💻 Full Stack with 5+ years of experience developing technological solutions for industries such as finance, mining, and government.</p>
 <p>🚀 I have worked on projects involving automation, data analysis, financial scoring systems, and monitoring dashboards, optimizing processes and enhancing decision-making through technology.</p>
 <p>📚 Currently learning Astro and diving deeper into the world of Artificial Intelligence.</p>
 <h2>✨ Skills</h2>
